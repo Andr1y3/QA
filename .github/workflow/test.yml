@@ -50,4 +50,4 @@ jobs:
           destination-github-username: 'Andr1y3' # Your username
           destination-repository-name: 'QA' # Name of your repo
           user-email: andrsy.adamovich@gmail.com # Your email
-          target-branch: main 
+          target-branch: main
